@@ -1,3 +1,5 @@
+# Snowman Merkle Airdrop Findings @CodeHawks First Flight.
+
 ### [H-1] Global `s_earnTimer` in `Snow::earnSnow` restricts earning to a single user per week
 
 **Description:**  
